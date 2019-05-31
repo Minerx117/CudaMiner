@@ -4005,6 +4005,7 @@ int main(int argc, char *argv[])
 		printf("  based on ccminer 2.3.1 from tpruvot");
 		printf("  Originally based on Christian Buchner and Christian H. project\n");
 		printf("  Include some kernels from alexis78, djm34, djEzo, tsiv and krnlx.\n\n");
+		printf("  compiled by minerx117@github.com\n\n");
 		printf("  BTC donation address: 1AJdfCpLWPNoAMDfHF1wD5y8VgKSSTHxPo (tpruvot)\n\n");
 	}
 
